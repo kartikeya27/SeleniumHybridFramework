@@ -30,6 +30,9 @@ mvn clean compile test
   /src/main/resources folder and run as a TestNG suites.
 * We can also run from LoginTest.java file right click on it and run as a TestNG suites.
 
+* Report will be generated inside test-output folder. For test repoert I am using extent report.
+  Extent.html file will be generated after every run.
+
 
 ```
 ### **Structure about this framework:**
