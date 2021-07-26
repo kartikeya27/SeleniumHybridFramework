@@ -32,6 +32,9 @@ mvn clean compile test
 
 * Report will be generated inside test-output folder. For test repoert I am using extent report.
   Extent.html file will be generated after every run.
+  
+* If you want to see any failure report then you have to change id or xpath in LoginPage.java. It will
+  capture screenshot with exception.
 
 
 ```
